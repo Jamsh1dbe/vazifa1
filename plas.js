@@ -112,3 +112,69 @@
 // console.log(a.split(''), '1');
 // console.log(a.split(' '), '2');
 // console.log(a.split('a'), '3');
+
+//26-masala
+
+// var a = 'Jamshidbek juda zor bola'
+// console.log(a.includes('ju'));
+// console.log(a.includes('a', 12));
+
+// 27-masala
+
+// console.log('2+2*3**2');
+// console.log(eval('2+2*3**2'));
+
+//28-masala
+
+// var test1 = '10';
+// let test2 = '10';
+// function Jamshidbek(){
+//     test1 = 20;
+//     test2 = 20;
+//     console.log(test1, test2);
+// }
+
+// Jamshidbek();
+// console.log(test1 , test2);
+
+// function hello(name){
+//     console.log(`Hello ${name}`);
+// }
+// hello('Jamshidbek')
+// hello('Jon')
+// hello()
+// hello('')
+
+// function hello(name, surname, age='enter age'){
+//     console.log(`Hello ${name} ${surname} ${age}`);
+// }
+// hello('Jamshidbek' , 'Sharipov', 18)
+// hello('Jon', 'john', )
+
+// function pow(a, b){
+//     return a**b 
+// }
+// console.log(pow(2, 3));
+// console.log(Math.pow(2, 3));  
+
+// 29-masala
+
+// const jamshid =(a)=>{
+//     console.log(a);
+// }
+// jamshid(9)
+
+// 30-masala
+
+// ==, ===, >=, <=, !, &&, ||, !=, <, >;
+
+console.log('10' === 10);
+console.log('10' == 10);
+console.log('10' <= 10);
+console.log('10' >= 10);
+console.log('10' < 10);
+console.log('10' > 10);
+console.log('10' != 10);
+console.log('10' && 10);
+console.log('10' || 10);
+console.log(!true);
